@@ -1,4 +1,4 @@
-# 椅子配置器
+# DIY椅子
 
 技术栈： React + Vite + Three.js + [React Three Fiber](https://docs.pmnd.rs/)
 
