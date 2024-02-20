@@ -6,4 +6,4 @@
 
 
 效果图：
-![./public/demo.png]
+![](https://github.com/Echogithu/chair-configurator/blob/master/public/demo.png?raw=true)
