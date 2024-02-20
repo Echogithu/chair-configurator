@@ -6,4 +6,4 @@
 https://echogithu.github.io/chair-configurator/
 
 效果图：
-![](https://github.com/Echogithu/chair-configurator/blob/master/public/demo.png?raw=true)
+![](https://github.com/Echogithu/chair-configurator/blob/main/public/demo.png?raw=true)
