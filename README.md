@@ -3,4 +3,4 @@
 技术栈： React + Vite + Three.js + [React Three Fiber](https://docs.pmnd.rs/)
 
 效果图：
-![./public/demo.png]
+![](https://github.com/Echogithu/chair-configurator/blob/master/public/demo.png?raw=true)
